@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://vindicta-platform.github.io/Audit-Log-Pro/</loc>
+         <lastmod>2026-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://vindicta-platform.github.io/Audit-Log-Pro/SETUP/</loc>
+         <lastmod>2026-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://vindicta-platform.github.io/Audit-Log-Pro/contributing/</loc>
+         <lastmod>2026-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://vindicta-platform.github.io/Audit-Log-Pro/getting-started/</loc>
+         <lastmod>2026-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://vindicta-platform.github.io/Audit-Log-Pro/adr/000-template/</loc>
+         <lastmod>2026-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://vindicta-platform.github.io/Audit-Log-Pro/adr/001-python-language/</loc>
+         <lastmod>2026-02-02</lastmod>
+    </url>
+    <url>
+         <loc>https://vindicta-platform.github.io/Audit-Log-Pro/adr/002-precommit-required/</loc>
+         <lastmod>2026-02-02</lastmod>
+    </url>
+</urlset>
