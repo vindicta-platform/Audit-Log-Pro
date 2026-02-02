@@ -1,0 +1,19 @@
+site_name: Audit Log Pro
+site_description: Structured audit logging for compliance
+site_url: https://vindicta-platform.github.io/Audit-Log-Pro/
+
+repo_name: vindicta-platform/Audit-Log-Pro
+repo_url: https://github.com/vindicta-platform/Audit-Log-Pro
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: blue
+      accent: cyan
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Contributing: contributing.md
+plugins:
+  - search
